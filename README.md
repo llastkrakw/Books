@@ -6,7 +6,7 @@ App to use google books api, for learn some android concepts
 -set api key on ApiUtil.java:
 
 ```
-private static fainal API_KEY = "Your api key"
+private static final API_KEY = "Your api key"
 ```
 
 ## Content :
