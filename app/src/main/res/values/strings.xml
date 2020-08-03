@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="error_when_loading_data_on_google_book">Error when Loading Data on Google Book</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="publisher">Publisher</string>
+    <string name="date">Date</string>
+    <string name="logo">logo</string>
+    <string name="search">Search</string>
+    <string name="desc">
+        Lorem impum dolor iset no te verum come es valhala. Lorem impum dolor iset no te verum come es valhala,
+        Lorem impum dolor iset no te verum come es valhala. Lorem impum dolor iset no te verum come es valhala
+        Lorem impum dolor iset no te verum come es valhala, Lorem impum dolor iset no te verum come es valhala.
+        Lorem impum dolor iset no te verum come es valhala. Lorem impum dolor iset no te verum come es valhala,
+        Lorem impum dolor iset no te verum come es valhala. Lorem impum dolor iset no te verum come es valhala
+        Lorem impum dolor iset no te verum come es valhala, Lorem impum dolor iset no te verum come es valhala.
+    </string>
+    <string name="idbook">IdBook</string>
+</resources>
